@@ -11,7 +11,7 @@ Create a new directory to host the compose file and env variables.
 
 This is where you’ll place the `docker-compose.yml` file from the next step and the environment variables.
 
-For example you could make a new directory called "karakeep-app" with the following command:
+For example, you could make a new directory called "karakeep-app" with the following command:
 ```
 mkdir karakeep-app
 ```
@@ -57,7 +57,7 @@ To enable automatic tagging, you'll need to configure OpenAI. This is optional t
 OPENAI_API_KEY=<key>
 ```
 
-Learn more about the costs of using openai [here](/openai).
+Learn more about the costs of using OpenAI [here](/openai).
 
 <details>
     <summary>If you want to use Ollama (https://ollama.com/) instead for local inference.</summary>
